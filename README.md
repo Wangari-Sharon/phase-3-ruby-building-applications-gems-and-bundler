@@ -45,8 +45,7 @@ installs the latest version to your computer.
 
 [rspec gem]: https://rubygems.org/gems/rspec
 
-The key, really, is knowing the correct name so that you install the gem that
-you want.
+The key, really, is knowing the correct name so that you install the gem that you want.
 
 ### How to Find a Gem
 
@@ -359,7 +358,6 @@ Add this code to your `Gemfile`
 source "https://rubygems.org"
 gem "rspec"
 gem "rest-client"
-
 group :development do
   gem "pry"
 end
